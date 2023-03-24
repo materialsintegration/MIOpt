@@ -2,9 +2,9 @@
 
 ## Creep rupture
 
-このデータはMIntを利用した最適化のフレームワークであるMIOptにより実行された最適化の結果です。
+このデータはMIntを利用した最適化アプリケーションであるMIOptにより実行された最適化の結果です。
 
-This data is the result of optimization performed by MIOpt, a MInt-based optimization framework.
+This data is the result of optimization performed by MIOpt, an optimization application using MInt.
 
 | File                            | Description   |
 |:--------------------------------|:--------------|
